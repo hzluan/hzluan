@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://hzluan.github.io/src/HongzhouLuan_cv.pdf">
+  <a href="https://hzluan.github.io/src/HongzhouLuan_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
