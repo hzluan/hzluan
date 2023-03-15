@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - ⛵️ I'm Hongzhou
 - 👩🏻‍💻 I’m interested in Medical AI
